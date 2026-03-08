@@ -1,8 +1,11 @@
 /*  your css code here. If applicable */
 .header{
+	text-align:center
 	background-color: #011e29
+	
 }
 
 body{
+	text-align:center
 	background-color: #f5f5f5
 }
